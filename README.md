@@ -57,6 +57,6 @@ The results of the machine learning models are summarized below:
 
 In summary, the machine learning models were built to assess loan risk, and their performance was evaluated. Depending on the specific problem to solve, the choice of the best-performing model may vary.
 
-The choice of the best model depends on various factors, such as the specific problem at hand and the importance of predicting healthy loans (`0`) or high-risk loans (`1`). It is essential to consider the trade-off between precision and recall when making this decision.
+The choice of the best model depends on various factors, such as the specific problem at hand and the importance of predicting healthy loans (`0`) or high-risk loans (`1`). It is essential to consider the trade-off between precision and recall when making this decision. In general, the second, balaced model using the resampled data imporved as the recall score increased for the high-risk loan category. 
 
 Overall, this analysis provides valuable insights into the creditworthiness of borrowers and helps make informed decisions regarding loan risk.
